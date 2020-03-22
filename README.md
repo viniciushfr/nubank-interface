@@ -1,0 +1,1 @@
+Estudo de animações em react-native e styled components
